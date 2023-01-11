@@ -1,0 +1,184 @@
+[23-Nov-2022 13:58:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dhvsuevo/public_html/connection/mysql_connect.php:14) in /home/dhvsuevo/public_html/change-password/index.php on line 17
+[23-Nov-2022 13:58:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dhvsuevo/public_html/connection/mysql_connect.php:14) in /home/dhvsuevo/public_html/change-password/index.php on line 17
+[23-Nov-2022 13:58:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dhvsuevo/public_html/connection/mysql_connect.php:14) in /home/dhvsuevo/public_html/change-password/index.php on line 17
+[28-Nov-2022 12:05:46 UTC] PHP Warning:  Undefined array key "username_id" in /home/dhvsuevo/public_html/change-password/index.php on line 10
+[28-Nov-2022 12:05:46 UTC] PHP Warning:  Undefined array key "access_rights" in /home/dhvsuevo/public_html/change-password/index.php on line 11
+[28-Nov-2022 12:05:46 UTC] PHP Warning:  Undefined array key "fullname" in /home/dhvsuevo/public_html/change-password/index.php on line 12
+[28-Nov-2022 12:05:46 UTC] PHP Warning:  Undefined array key "department" in /home/dhvsuevo/public_html/change-password/index.php on line 13
+[28-Nov-2022 12:05:46 UTC] PHP Warning:  Undefined array key "chg_password" in /home/dhvsuevo/public_html/change-password/index.php on line 14
+[28-Nov-2022 12:05:46 UTC] PHP Warning:  Undefined array key "username_id" in /home/dhvsuevo/public_html/sidebar.php on line 8
+[28-Nov-2022 12:05:46 UTC] PHP Warning:  Undefined array key "access_rights" in /home/dhvsuevo/public_html/sidebar.php on line 9
+[28-Nov-2022 12:05:46 UTC] PHP Warning:  Undefined array key "first_name" in /home/dhvsuevo/public_html/sidebar.php on line 10
+[28-Nov-2022 12:05:46 UTC] PHP Warning:  Undefined array key "middle_name" in /home/dhvsuevo/public_html/sidebar.php on line 11
+[28-Nov-2022 12:05:46 UTC] PHP Warning:  Undefined array key "last_name" in /home/dhvsuevo/public_html/sidebar.php on line 12
+[28-Nov-2022 12:05:46 UTC] PHP Warning:  Undefined array key "fullname" in /home/dhvsuevo/public_html/sidebar.php on line 13
+[28-Nov-2022 12:05:46 UTC] PHP Warning:  Undefined array key "chg_password" in /home/dhvsuevo/public_html/sidebar.php on line 14
+[28-Nov-2022 12:05:46 UTC] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 27
+[28-Nov-2022 12:05:46 UTC] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 28
+[28-Nov-2022 12:05:46 UTC] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 34
+[28-Nov-2022 12:05:46 UTC] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[28-Nov-2022 12:05:46 UTC] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[28-Nov-2022 12:05:46 UTC] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[28-Nov-2022 12:13:14 UTC] PHP Warning:  Undefined array key "username_id" in /home/dhvsuevo/public_html/change-password/index.php on line 10
+[28-Nov-2022 12:13:14 UTC] PHP Warning:  Undefined array key "access_rights" in /home/dhvsuevo/public_html/change-password/index.php on line 11
+[28-Nov-2022 12:13:14 UTC] PHP Warning:  Undefined array key "fullname" in /home/dhvsuevo/public_html/change-password/index.php on line 12
+[28-Nov-2022 12:13:14 UTC] PHP Warning:  Undefined array key "department" in /home/dhvsuevo/public_html/change-password/index.php on line 13
+[28-Nov-2022 12:13:14 UTC] PHP Warning:  Undefined array key "chg_password" in /home/dhvsuevo/public_html/change-password/index.php on line 14
+[28-Nov-2022 12:13:14 UTC] PHP Warning:  Undefined array key "username_id" in /home/dhvsuevo/public_html/sidebar.php on line 8
+[28-Nov-2022 12:13:14 UTC] PHP Warning:  Undefined array key "access_rights" in /home/dhvsuevo/public_html/sidebar.php on line 9
+[28-Nov-2022 12:13:14 UTC] PHP Warning:  Undefined array key "first_name" in /home/dhvsuevo/public_html/sidebar.php on line 10
+[28-Nov-2022 12:13:14 UTC] PHP Warning:  Undefined array key "middle_name" in /home/dhvsuevo/public_html/sidebar.php on line 11
+[28-Nov-2022 12:13:14 UTC] PHP Warning:  Undefined array key "last_name" in /home/dhvsuevo/public_html/sidebar.php on line 12
+[28-Nov-2022 12:13:14 UTC] PHP Warning:  Undefined array key "fullname" in /home/dhvsuevo/public_html/sidebar.php on line 13
+[28-Nov-2022 12:13:14 UTC] PHP Warning:  Undefined array key "chg_password" in /home/dhvsuevo/public_html/sidebar.php on line 14
+[28-Nov-2022 12:13:14 UTC] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 27
+[28-Nov-2022 12:13:14 UTC] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 28
+[28-Nov-2022 12:13:14 UTC] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 34
+[28-Nov-2022 12:13:14 UTC] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[28-Nov-2022 12:13:14 UTC] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[28-Nov-2022 12:13:14 UTC] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[29-Nov-2022 05:40:01 UTC] PHP Warning:  Undefined array key "username_id" in /home/dhvsuevo/public_html/change-password/index.php on line 10
+[29-Nov-2022 05:40:01 UTC] PHP Warning:  Undefined array key "access_rights" in /home/dhvsuevo/public_html/change-password/index.php on line 11
+[29-Nov-2022 05:40:01 UTC] PHP Warning:  Undefined array key "fullname" in /home/dhvsuevo/public_html/change-password/index.php on line 12
+[29-Nov-2022 05:40:01 UTC] PHP Warning:  Undefined array key "department" in /home/dhvsuevo/public_html/change-password/index.php on line 13
+[29-Nov-2022 05:40:01 UTC] PHP Warning:  Undefined array key "chg_password" in /home/dhvsuevo/public_html/change-password/index.php on line 14
+[29-Nov-2022 05:40:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dhvsuevo/public_html/connection/mysql_connect.php:14) in /home/dhvsuevo/public_html/change-password/index.php on line 17
+[29-Nov-2022 05:40:01 UTC] PHP Warning:  Undefined array key "username_id" in /home/dhvsuevo/public_html/sidebar.php on line 8
+[29-Nov-2022 05:40:01 UTC] PHP Warning:  Undefined array key "access_rights" in /home/dhvsuevo/public_html/sidebar.php on line 9
+[29-Nov-2022 05:40:01 UTC] PHP Warning:  Undefined array key "first_name" in /home/dhvsuevo/public_html/sidebar.php on line 10
+[29-Nov-2022 05:40:01 UTC] PHP Warning:  Undefined array key "middle_name" in /home/dhvsuevo/public_html/sidebar.php on line 11
+[29-Nov-2022 05:40:01 UTC] PHP Warning:  Undefined array key "last_name" in /home/dhvsuevo/public_html/sidebar.php on line 12
+[29-Nov-2022 05:40:01 UTC] PHP Warning:  Undefined array key "fullname" in /home/dhvsuevo/public_html/sidebar.php on line 13
+[29-Nov-2022 05:40:01 UTC] PHP Warning:  Undefined array key "chg_password" in /home/dhvsuevo/public_html/sidebar.php on line 14
+[29-Nov-2022 05:40:01 UTC] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 27
+[29-Nov-2022 05:40:01 UTC] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 28
+[29-Nov-2022 05:40:01 UTC] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/dhvsuevo/public_html/sidebar.php on line 30
+[29-Nov-2022 05:40:01 UTC] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 34
+[29-Nov-2022 05:40:01 UTC] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[29-Nov-2022 05:40:01 UTC] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[29-Nov-2022 05:40:01 UTC] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[29-Nov-2022 05:45:15 UTC] PHP Warning:  Undefined array key "username_id" in /home/dhvsuevo/public_html/change-password/index.php on line 10
+[29-Nov-2022 05:45:15 UTC] PHP Warning:  Undefined array key "access_rights" in /home/dhvsuevo/public_html/change-password/index.php on line 11
+[29-Nov-2022 05:45:15 UTC] PHP Warning:  Undefined array key "fullname" in /home/dhvsuevo/public_html/change-password/index.php on line 12
+[29-Nov-2022 05:45:15 UTC] PHP Warning:  Undefined array key "department" in /home/dhvsuevo/public_html/change-password/index.php on line 13
+[29-Nov-2022 05:45:15 UTC] PHP Warning:  Undefined array key "chg_password" in /home/dhvsuevo/public_html/change-password/index.php on line 14
+[29-Nov-2022 05:45:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dhvsuevo/public_html/connection/mysql_connect.php:14) in /home/dhvsuevo/public_html/change-password/index.php on line 17
+[29-Nov-2022 05:45:15 UTC] PHP Warning:  Undefined array key "username_id" in /home/dhvsuevo/public_html/sidebar.php on line 8
+[29-Nov-2022 05:45:15 UTC] PHP Warning:  Undefined array key "access_rights" in /home/dhvsuevo/public_html/sidebar.php on line 9
+[29-Nov-2022 05:45:15 UTC] PHP Warning:  Undefined array key "first_name" in /home/dhvsuevo/public_html/sidebar.php on line 10
+[29-Nov-2022 05:45:15 UTC] PHP Warning:  Undefined array key "middle_name" in /home/dhvsuevo/public_html/sidebar.php on line 11
+[29-Nov-2022 05:45:15 UTC] PHP Warning:  Undefined array key "last_name" in /home/dhvsuevo/public_html/sidebar.php on line 12
+[29-Nov-2022 05:45:15 UTC] PHP Warning:  Undefined array key "fullname" in /home/dhvsuevo/public_html/sidebar.php on line 13
+[29-Nov-2022 05:45:15 UTC] PHP Warning:  Undefined array key "chg_password" in /home/dhvsuevo/public_html/sidebar.php on line 14
+[29-Nov-2022 05:45:15 UTC] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 27
+[29-Nov-2022 05:45:15 UTC] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 28
+[29-Nov-2022 05:45:15 UTC] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/dhvsuevo/public_html/sidebar.php on line 30
+[29-Nov-2022 05:45:15 UTC] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 34
+[29-Nov-2022 05:45:15 UTC] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[29-Nov-2022 05:45:15 UTC] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[29-Nov-2022 05:45:15 UTC] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[29-Nov-2022 05:45:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/change-password/index.php(9): include_once()
+#1 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[29-Nov-2022 06:16:35 UTC] PHP Warning:  Undefined array key "username_id" in /home/dhvsuevo/public_html/change-password/index.php on line 10
+[29-Nov-2022 06:16:35 UTC] PHP Warning:  Undefined array key "access_rights" in /home/dhvsuevo/public_html/change-password/index.php on line 11
+[29-Nov-2022 06:16:35 UTC] PHP Warning:  Undefined array key "fullname" in /home/dhvsuevo/public_html/change-password/index.php on line 12
+[29-Nov-2022 06:16:35 UTC] PHP Warning:  Undefined array key "department" in /home/dhvsuevo/public_html/change-password/index.php on line 13
+[29-Nov-2022 06:16:35 UTC] PHP Warning:  Undefined array key "chg_password" in /home/dhvsuevo/public_html/change-password/index.php on line 14
+[29-Nov-2022 06:16:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dhvsuevo/public_html/connection/mysql_connect.php:14) in /home/dhvsuevo/public_html/change-password/index.php on line 17
+[29-Nov-2022 06:16:35 UTC] PHP Warning:  Undefined array key "username_id" in /home/dhvsuevo/public_html/sidebar.php on line 8
+[29-Nov-2022 06:16:35 UTC] PHP Warning:  Undefined array key "access_rights" in /home/dhvsuevo/public_html/sidebar.php on line 9
+[29-Nov-2022 06:16:35 UTC] PHP Warning:  Undefined array key "first_name" in /home/dhvsuevo/public_html/sidebar.php on line 10
+[29-Nov-2022 06:16:35 UTC] PHP Warning:  Undefined array key "middle_name" in /home/dhvsuevo/public_html/sidebar.php on line 11
+[29-Nov-2022 06:16:35 UTC] PHP Warning:  Undefined array key "last_name" in /home/dhvsuevo/public_html/sidebar.php on line 12
+[29-Nov-2022 06:16:35 UTC] PHP Warning:  Undefined array key "fullname" in /home/dhvsuevo/public_html/sidebar.php on line 13
+[29-Nov-2022 06:16:35 UTC] PHP Warning:  Undefined array key "chg_password" in /home/dhvsuevo/public_html/sidebar.php on line 14
+[29-Nov-2022 06:16:35 UTC] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 27
+[29-Nov-2022 06:16:35 UTC] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 28
+[29-Nov-2022 06:16:35 UTC] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/dhvsuevo/public_html/sidebar.php on line 30
+[29-Nov-2022 06:16:35 UTC] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 34
+[29-Nov-2022 06:16:35 UTC] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[29-Nov-2022 06:16:35 UTC] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[29-Nov-2022 06:16:35 UTC] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[29-Nov-2022 06:19:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dhvsuevo/public_html/connection/mysql_connect.php:14) in /home/dhvsuevo/public_html/change-password/index.php on line 17
+[29-Nov-2022 16:21:15 UTC] PHP Warning:  Undefined array key "username_id" in /home/dhvsuevo/public_html/change-password/index.php on line 10
+[29-Nov-2022 16:21:15 UTC] PHP Warning:  Undefined array key "access_rights" in /home/dhvsuevo/public_html/change-password/index.php on line 11
+[29-Nov-2022 16:21:15 UTC] PHP Warning:  Undefined array key "fullname" in /home/dhvsuevo/public_html/change-password/index.php on line 12
+[29-Nov-2022 16:21:15 UTC] PHP Warning:  Undefined array key "department" in /home/dhvsuevo/public_html/change-password/index.php on line 13
+[29-Nov-2022 16:21:15 UTC] PHP Warning:  Undefined array key "chg_password" in /home/dhvsuevo/public_html/change-password/index.php on line 14
+[29-Nov-2022 16:21:15 UTC] PHP Warning:  Undefined array key "username_id" in /home/dhvsuevo/public_html/sidebar.php on line 8
+[29-Nov-2022 16:21:15 UTC] PHP Warning:  Undefined array key "access_rights" in /home/dhvsuevo/public_html/sidebar.php on line 9
+[29-Nov-2022 16:21:15 UTC] PHP Warning:  Undefined array key "first_name" in /home/dhvsuevo/public_html/sidebar.php on line 10
+[29-Nov-2022 16:21:15 UTC] PHP Warning:  Undefined array key "middle_name" in /home/dhvsuevo/public_html/sidebar.php on line 11
+[29-Nov-2022 16:21:15 UTC] PHP Warning:  Undefined array key "last_name" in /home/dhvsuevo/public_html/sidebar.php on line 12
+[29-Nov-2022 16:21:15 UTC] PHP Warning:  Undefined array key "fullname" in /home/dhvsuevo/public_html/sidebar.php on line 13
+[29-Nov-2022 16:21:15 UTC] PHP Warning:  Undefined array key "chg_password" in /home/dhvsuevo/public_html/sidebar.php on line 14
+[29-Nov-2022 16:21:15 UTC] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 27
+[29-Nov-2022 16:21:15 UTC] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 28
+[29-Nov-2022 16:21:15 UTC] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 34
+[29-Nov-2022 16:21:15 UTC] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[29-Nov-2022 16:21:15 UTC] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[29-Nov-2022 16:21:15 UTC] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[01-Dec-2022 00:17:08 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Host 'alpha.firstveda.com' is not allowed to connect to this MariaDB server in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/change-password/index.php(9): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[01-Dec-2022 20:34:19 Asia/Manila] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[04-Dec-2022 13:13:00 Asia/Manila] PHP Warning:  Undefined array key "username_id" in /home/dhvsuevo/public_html/change-password/index.php on line 10
+[04-Dec-2022 13:13:00 Asia/Manila] PHP Warning:  Undefined array key "access_rights" in /home/dhvsuevo/public_html/change-password/index.php on line 11
+[04-Dec-2022 13:13:00 Asia/Manila] PHP Warning:  Undefined array key "fullname" in /home/dhvsuevo/public_html/change-password/index.php on line 12
+[04-Dec-2022 13:13:00 Asia/Manila] PHP Warning:  Undefined array key "department" in /home/dhvsuevo/public_html/change-password/index.php on line 13
+[04-Dec-2022 13:13:00 Asia/Manila] PHP Warning:  Undefined array key "chg_password" in /home/dhvsuevo/public_html/change-password/index.php on line 14
+[04-Dec-2022 13:13:00 Asia/Manila] PHP Warning:  Undefined array key "username_id" in /home/dhvsuevo/public_html/sidebar.php on line 8
+[04-Dec-2022 13:13:00 Asia/Manila] PHP Warning:  Undefined array key "access_rights" in /home/dhvsuevo/public_html/sidebar.php on line 9
+[04-Dec-2022 13:13:00 Asia/Manila] PHP Warning:  Undefined array key "first_name" in /home/dhvsuevo/public_html/sidebar.php on line 10
+[04-Dec-2022 13:13:00 Asia/Manila] PHP Warning:  Undefined array key "middle_name" in /home/dhvsuevo/public_html/sidebar.php on line 11
+[04-Dec-2022 13:13:00 Asia/Manila] PHP Warning:  Undefined array key "last_name" in /home/dhvsuevo/public_html/sidebar.php on line 12
+[04-Dec-2022 13:13:00 Asia/Manila] PHP Warning:  Undefined array key "fullname" in /home/dhvsuevo/public_html/sidebar.php on line 13
+[04-Dec-2022 13:13:00 Asia/Manila] PHP Warning:  Undefined array key "chg_password" in /home/dhvsuevo/public_html/sidebar.php on line 14
+[04-Dec-2022 13:13:00 Asia/Manila] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 27
+[04-Dec-2022 13:13:00 Asia/Manila] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 28
+[04-Dec-2022 13:13:00 Asia/Manila] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 34
+[04-Dec-2022 13:13:00 Asia/Manila] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[04-Dec-2022 13:13:00 Asia/Manila] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[04-Dec-2022 13:13:00 Asia/Manila] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[05-Dec-2022 19:48:19 Asia/Manila] PHP Warning:  Undefined array key "username_id" in /home/dhvsuevo/public_html/change-password/index.php on line 10
+[05-Dec-2022 19:48:19 Asia/Manila] PHP Warning:  Undefined array key "access_rights" in /home/dhvsuevo/public_html/change-password/index.php on line 11
+[05-Dec-2022 19:48:19 Asia/Manila] PHP Warning:  Undefined array key "fullname" in /home/dhvsuevo/public_html/change-password/index.php on line 12
+[05-Dec-2022 19:48:19 Asia/Manila] PHP Warning:  Undefined array key "department" in /home/dhvsuevo/public_html/change-password/index.php on line 13
+[05-Dec-2022 19:48:19 Asia/Manila] PHP Warning:  Undefined array key "chg_password" in /home/dhvsuevo/public_html/change-password/index.php on line 14
+[05-Dec-2022 19:48:19 Asia/Manila] PHP Warning:  Undefined array key "username_id" in /home/dhvsuevo/public_html/sidebar.php on line 8
+[05-Dec-2022 19:48:19 Asia/Manila] PHP Warning:  Undefined array key "access_rights" in /home/dhvsuevo/public_html/sidebar.php on line 9
+[05-Dec-2022 19:48:19 Asia/Manila] PHP Warning:  Undefined array key "first_name" in /home/dhvsuevo/public_html/sidebar.php on line 10
+[05-Dec-2022 19:48:19 Asia/Manila] PHP Warning:  Undefined array key "middle_name" in /home/dhvsuevo/public_html/sidebar.php on line 11
+[05-Dec-2022 19:48:19 Asia/Manila] PHP Warning:  Undefined array key "last_name" in /home/dhvsuevo/public_html/sidebar.php on line 12
+[05-Dec-2022 19:48:19 Asia/Manila] PHP Warning:  Undefined array key "fullname" in /home/dhvsuevo/public_html/sidebar.php on line 13
+[05-Dec-2022 19:48:19 Asia/Manila] PHP Warning:  Undefined array key "chg_password" in /home/dhvsuevo/public_html/sidebar.php on line 14
+[05-Dec-2022 19:48:19 Asia/Manila] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 27
+[05-Dec-2022 19:48:19 Asia/Manila] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 28
+[05-Dec-2022 19:48:19 Asia/Manila] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 34
+[05-Dec-2022 19:48:19 Asia/Manila] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[05-Dec-2022 19:48:19 Asia/Manila] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[05-Dec-2022 19:48:19 Asia/Manila] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[06-Dec-2022 12:04:12 Asia/Manila] PHP Warning:  Undefined array key "username_id" in /home/dhvsuevo/public_html/change-password/index.php on line 10
+[06-Dec-2022 12:04:12 Asia/Manila] PHP Warning:  Undefined array key "access_rights" in /home/dhvsuevo/public_html/change-password/index.php on line 11
+[06-Dec-2022 12:04:12 Asia/Manila] PHP Warning:  Undefined array key "fullname" in /home/dhvsuevo/public_html/change-password/index.php on line 12
+[06-Dec-2022 12:04:12 Asia/Manila] PHP Warning:  Undefined array key "department" in /home/dhvsuevo/public_html/change-password/index.php on line 13
+[06-Dec-2022 12:04:12 Asia/Manila] PHP Warning:  Undefined array key "chg_password" in /home/dhvsuevo/public_html/change-password/index.php on line 14
+[06-Dec-2022 12:04:12 Asia/Manila] PHP Warning:  Undefined array key "username_id" in /home/dhvsuevo/public_html/sidebar.php on line 8
+[06-Dec-2022 12:04:12 Asia/Manila] PHP Warning:  Undefined array key "access_rights" in /home/dhvsuevo/public_html/sidebar.php on line 9
+[06-Dec-2022 12:04:12 Asia/Manila] PHP Warning:  Undefined array key "first_name" in /home/dhvsuevo/public_html/sidebar.php on line 10
+[06-Dec-2022 12:04:12 Asia/Manila] PHP Warning:  Undefined array key "middle_name" in /home/dhvsuevo/public_html/sidebar.php on line 11
+[06-Dec-2022 12:04:12 Asia/Manila] PHP Warning:  Undefined array key "last_name" in /home/dhvsuevo/public_html/sidebar.php on line 12
+[06-Dec-2022 12:04:12 Asia/Manila] PHP Warning:  Undefined array key "fullname" in /home/dhvsuevo/public_html/sidebar.php on line 13
+[06-Dec-2022 12:04:12 Asia/Manila] PHP Warning:  Undefined array key "chg_password" in /home/dhvsuevo/public_html/sidebar.php on line 14
+[06-Dec-2022 12:04:12 Asia/Manila] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 27
+[06-Dec-2022 12:04:12 Asia/Manila] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 28
+[06-Dec-2022 12:04:12 Asia/Manila] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 34
+[06-Dec-2022 12:04:12 Asia/Manila] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[06-Dec-2022 12:04:12 Asia/Manila] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[06-Dec-2022 12:04:12 Asia/Manila] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40

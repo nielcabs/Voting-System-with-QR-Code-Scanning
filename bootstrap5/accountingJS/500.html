@@ -1,0 +1,218 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <title>500 | Bootstrap Based Admin Template - Material Design</title>
+    <!-- Favicon-->
+    <link rel="icon" href="../favicon.ico" type="image/x-icon">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&subset=latin,cyrillic-ext" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" type="text/css">
+
+    <!-- Bootstrap Core Css -->
+    <link href="../plugins/bootstrap/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Waves Effect Css -->
+    <link href="../plugins/node-waves/waves.css" rel="stylesheet" />
+
+    <!-- Custom Css -->
+    <link href="../css/style.css" rel="stylesheet">
+	<style>
+	input{
+	border:none
+	}
+	input:focus{
+	border:solid #0033FF 1px;
+
+	}
+	.amount:focus{
+	border:none;
+
+	}
+	.amount, .count_num{
+	background-color :Lavender; 
+
+	}
+	</style>
+</head>
+
+<body class="five-zero-zero">
+    <div class="five-zero-zero-container">
+			<form method="post">
+<section>
+       sdsd <select id="basic" class="selectpicker show-tick form-control" data-live-search="true">
+          <option>cow</option>
+          <option data-subtext="option subtext">bull</option>
+          <option class="get-class" disabled>ox</option>
+          <optgroup label="test" data-subtext="optgroup subtext">
+            <option>ASD</option>
+            <option selected>Bla</option>
+            <option>Ble</option>
+          </optgroup>
+        </select>
+	<div align="right">
+	<span class="big_total" style="font-size:24px;">PHP 00.00<span>
+	</div>
+
+	<table width="100%" border="1"  style="border-collapse:collapse;">
+ <tr >
+    <td width="3%">#</td>
+    <td width="30%">PRODUCT/SERVICE</td>
+    <td width="34%">DESCRIPTION</td>
+    <td width="10%">QTY</td>
+	<td width="10%">RATE</td>
+	<td width="10%">AMOUNT</td>
+	<td width="3%"></td>
+  </tr>
+  <tr id="last-row" style="vertical-align:middle;">
+    <td ><input style=" width:60%;" type="text" class="count1" value="" /></td>
+    <td ><input style=" width:97%;" type="text" class="count1" value="" /></td>
+    <td ><input style=" width:97%;" type="text" class="count1" value="" /></td>
+    <td ><input style=" width:90%;" type="text" class="count1" value="" /></td>
+	<td ><input style=" width:90%;" type="text" class="count1" value="" /></td>
+	<td ><input style=" width:90%;" type="text" class="count1" value="" /></td>
+	<td ><i class="material-icons add_new">add_box</i></td>
+  </tr>
+  <tr style="vertical-align:middle;">
+    <td></td>
+    <td ></td>
+    <td ></td>
+    <td ></td>
+	<td >Total : </td>
+	<td ><input style=" width:90%;" type="text" class="total" value="" /></td>
+	<td ></td>
+  </tr>
+</table>
+
+	<input type="text" id="lastcount" value=1 />
+	<input type="button" name ="btn" value="save" onClick="mybutton();" />
+</section>
+</form>
+    </div>
+
+    <!-- Jquery Core Js -->
+    <script src="../plugins/jquery/jquery.min.js"></script>
+
+    <!-- Bootstrap Core Js -->
+    <script src="../plugins/bootstrap/js/bootstrap.js"></script>
+
+    <!-- Waves Effect Plugin Js -->
+    <script src="../plugins/node-waves/waves.js"></script>
+	<script src="validate2.js"></script>
+	<script src="accounting.js"></script>
+	<script>
+var lastRow = $('#last-row');
+var lastInput = lastRow.find('input');
+
+function addRow() {
+
+	//Place number on every rows
+	var lastcount = $("#lastcount").val();
+	var id_num=parseInt(lastcount)+1;
+	$("#lastcount").val(id_num);
+	
+	//Place number on every rows
+	var inputs = $(".count_num");
+	var id_count=1;
+	for(var i = 0; i < inputs.length; i++){
+		id_count=id_count+1;
+	}
+	//Place number on every rows
+	total();
+    var newRow = $('<tr ><td><input type="text" class="count_num" value="'+id_count+'"style=" width:60%;" /></td>'+
+				  '<td><?php include("../service_product.php"); ?></td>'+
+				  '<td><input type="text" class="mfield" value="" style=" width:97%;"/></td>'+
+				  '<td><input type="text" class="mfield qty" id="qty_'+id_num+'" onchange() "value=""'+
+				 		 ' style=" width:90%;" onblur="extractNumber(this,2,true);" onkeyup="extractNumber(this,2,true);" '+
+				  		 ' onkeypress="return blockNonNumbers(this, event, true, true);" style=" width:90%;"/></td>'+
+				  '<td><input type="text" class="mfield rate" onchange() id="rate_'+id_num+'" value=""'+
+				 		 ' style=" width:90%;" onblur="extractNumber(this,2,true);" onkeyup="extractNumber(this,2,true);" '+
+				  		 ' onkeypress="return blockNonNumbers(this, event, true, true);"/></td>'+
+				  '<td><input type="text" class="mfield amount" id="amount_'+id_num+'" value="" style=" width:90%;" readonly/></td>'+
+				  '<td> <a class="row-delete"  style="align:middle;"><i class="material-icons">delete</i></a></td></tr>');
+    var newInput = newRow.find('.qty');
+    lastRow.before(newRow);
+    newInput.focus();
+
+
+    var newDelete = newRow.find('a');
+    newDelete.click(function() {
+        newRow.remove();
+			    var sum = 0;
+			$(".mfield").each(function(){
+				sum += +$(this).val();
+			});
+			$(".total").val(sum);
+	//Place number on every rows
+	var inputs = $(".count_num");
+				for(var i = 0; i < inputs.length; i++){
+					$(inputs[i]).val(i+1);
+				}
+	//Place number on every rows
+	total();
+    });
+}
+
+lastInput.focus(function() {
+    addRow();
+});
+function mybutton(){
+var inputs = $(".mfield");
+
+	for(var i = 0; i < inputs.length; i++){
+		alert($(inputs[i]).val());
+	}
+
+}
+
+function total(){
+		///total
+	    var sum = 0;
+    $(".amount").each(function(){
+        sum += +$(this).val();
+    });
+	sum = sum.toFixed(2);
+    $(".total").val(sum);
+	
+	$(".big_total").html(accounting.formatMoney(sum, "PHP ", 2, ",", ".") );
+	//total end
+}
+
+
+$(document).on("click", ".add_new", function() {
+   addRow();
+});
+
+
+$(document).on("change", ".qty", function() {
+ var qty = $(this).attr("id");
+ var rate = qty.replace("qty_", "rate_");
+ var amount = qty.replace("qty_", "amount_");
+var qty_value =$("#"+qty).val();
+var rate_value =$("#"+rate).val();
+var amount_total =qty_value*rate_value;
+amount_total = amount_total.toFixed(2);
+$("#"+amount).val(amount_total);
+ total();
+});
+$(document).on("change", ".rate", function() {
+ var rate = $(this).attr("id");
+ var qty = rate.replace("rate_", "qty_");
+ var amount = rate.replace("rate_", "amount_");
+var qty_value =$("#"+qty).val();
+var rate_value =$("#"+rate).val();
+var amount_total =qty_value*rate_value;
+amount_total = amount_total.toFixed(2);
+$("#"+amount).val(amount_total);
+
+ total();
+});
+	
+
+</script>
+</body>
+
+</html>

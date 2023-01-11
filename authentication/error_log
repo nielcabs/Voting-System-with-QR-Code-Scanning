@@ -1,0 +1,19 @@
+[29-Nov-2022 06:10:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/signin/index.php(5): include()
+#1 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[29-Nov-2022 06:13:19 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dhvsuevo/public_html/signin/index.php on line 9
+[29-Nov-2022 06:13:33 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dhvsuevo/public_html/signin/index.php on line 9
+[29-Nov-2022 06:13:35 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dhvsuevo/public_html/signin/login.php on line 72
+[29-Nov-2022 06:14:17 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dhvsuevo/public_html/signin/index.php on line 9
+[29-Nov-2022 06:14:33 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dhvsuevo/public_html/signin/login.php on line 72
+[29-Nov-2022 06:14:37 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dhvsuevo/public_html/signin/login.php on line 72
+[29-Nov-2022 06:15:32 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dhvsuevo/public_html/signin/index.php on line 9
+[29-Nov-2022 06:17:17 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dhvsuevo/public_html/signin/index.php on line 9
+[29-Nov-2022 06:17:22 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dhvsuevo/public_html/signin/index.php on line 9
+[29-Nov-2022 06:17:31 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dhvsuevo/public_html/signin/index.php on line 9
+[29-Nov-2022 06:17:36 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dhvsuevo/public_html/signin/index.php on line 9
+[29-Nov-2022 06:19:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dhvsuevo/public_html/signin/index.php on line 9
+[29-Nov-2022 06:19:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dhvsuevo/public_html/signin/index.php on line 9
+[29-Nov-2022 06:19:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dhvsuevo/public_html/signin/login.php on line 72

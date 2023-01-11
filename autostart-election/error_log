@@ -1,0 +1,240 @@
+[18-Dec-2022 15:04:01 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Host 'alpha.firstveda.com' is not allowed to connect to this MariaDB server in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/deactivate-account_student.php(4): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[21-Dec-2022 00:16:02 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Host 'alpha.firstveda.com' is not allowed to connect to this MariaDB server in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/autoend-election.php(11): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[21-Dec-2022 00:16:02 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Host 'alpha.firstveda.com' is not allowed to connect to this MariaDB server in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/autostart-election.php(11): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[21-Dec-2022 10:32:02 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Host 'alpha.firstveda.com' is not allowed to connect to this MariaDB server in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/autoend-election.php(11): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[21-Dec-2022 10:32:02 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Host 'alpha.firstveda.com' is not allowed to connect to this MariaDB server in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/deactivate-account_student.php(4): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[21-Dec-2022 22:01:01 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Host 'alpha.firstveda.com' is not allowed to connect to this MariaDB server in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/autoend-election.php(11): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[22-Dec-2022 16:16:02 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/deactivate-account_student.php(4): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[22-Dec-2022 16:16:02 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/autostart-election.php(11): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[22-Dec-2022 16:16:02 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/autoend-election.php(11): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[23-Dec-2022 17:10:03 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Host 'alpha.firstveda.com' is not allowed to connect to this MariaDB server in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/autoend-election.php(11): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[29-Dec-2022 03:43:01 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Host 'alpha.firstveda.com' is not allowed to connect to this MariaDB server in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/autostart-election.php(11): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[29-Dec-2022 03:43:01 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Host 'alpha.firstveda.com' is not allowed to connect to this MariaDB server in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/autoend-election.php(11): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[30-Dec-2022 21:22:03 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Host 'alpha.firstveda.com' is not allowed to connect to this MariaDB server in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/autoend-election.php(11): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[30-Dec-2022 21:22:03 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Host 'alpha.firstveda.com' is not allowed to connect to this MariaDB server in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/deactivate-account_student.php(4): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[31-Dec-2022 18:25:04 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/autostart-election.php(11): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[31-Dec-2022 18:25:04 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/autoend-election.php(11): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[31-Dec-2022 18:25:04 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/deactivate-account_student.php(4): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[31-Dec-2022 19:06:02 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/autoend-election.php(11): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[31-Dec-2022 19:06:02 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/deactivate-account_student.php(4): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[31-Dec-2022 19:06:02 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/autostart-election.php(11): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[31-Dec-2022 19:09:01 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/deactivate-account_student.php(4): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[31-Dec-2022 19:09:01 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/autoend-election.php(11): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[31-Dec-2022 19:09:01 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/autostart-election.php(11): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[31-Dec-2022 19:23:02 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/deactivate-account_student.php(4): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[31-Dec-2022 19:23:02 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/autostart-election.php(11): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[31-Dec-2022 19:23:02 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/autoend-election.php(11): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[31-Dec-2022 19:35:02 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/autoend-election.php(11): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[31-Dec-2022 19:35:02 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/autostart-election.php(11): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[31-Dec-2022 19:41:02 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/autostart-election.php(11): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[31-Dec-2022 19:41:02 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/deactivate-account_student.php(4): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[31-Dec-2022 19:43:01 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/deactivate-account_student.php(4): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[31-Dec-2022 19:43:01 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/autostart-election.php(11): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[31-Dec-2022 19:43:01 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/autoend-election.php(11): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[31-Dec-2022 19:44:02 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/autoend-election.php(11): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[31-Dec-2022 19:44:02 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/autostart-election.php(11): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[31-Dec-2022 19:44:02 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/deactivate-account_student.php(4): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[02-Jan-2023 15:25:02 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/autoend-election.php(11): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[02-Jan-2023 15:25:02 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/autostart-election.php(11): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[03-Jan-2023 13:16:01 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/deactivate-account_student.php(4): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8
+[05-Jan-2023 15:58:01 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Host 'alpha.firstveda.com' is not allowed to connect to this MariaDB server in /home/dhvsuevo/public_html/connection/mysql_connect.php:8
+Stack trace:
+#0 /home/dhvsuevo/public_html/connection/mysql_connect.php(8): mysqli_connect()
+#1 /home/dhvsuevo/public_html/autostart-election/autostart-election.php(11): include_once('/home/dhvsuevo/...')
+#2 {main}
+  thrown in /home/dhvsuevo/public_html/connection/mysql_connect.php on line 8

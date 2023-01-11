@@ -1,0 +1,230 @@
+@charset "UTF-8";
+
+/*-------------------------------------DARK MODE-------------------------------------/
+
+/* Body */
+.darkmode {
+  background-color: #292929;
+  color: #ffffff;
+}
+/* Card */
+.darkmode .card {
+  background-color: #242527;
+}
+/* Box */
+.darkmode .box {
+  background-color: #242527;
+}
+
+.darkmode .box-tab {
+  background-color: #464646 !important;
+  color: #ffffff !important;
+}
+
+.darkmode .box-header {
+  background-color: #242527;
+}
+
+.darkmode .box-footer {
+  background-color: #242527;
+}
+
+.darkmode .text-dwhite {
+  color: #ffffff;
+}
+
+.darkmode .btn-ligthdark {
+  background-color: #525252 !important;
+}
+/* Table */
+.darkmode .table-hover tbody tr:hover {
+  background-color: #9fa8c2;
+  color: #ffffff;
+}
+
+.darkmode .tableDark {
+  --bs-table-bg: #212529;
+  --bs-table-striped-bg: #2c3034;
+  --bs-table-striped-color: #fff;
+  --bs-table-active-bg: #373b3e;
+  --bs-table-active-color: #fff;
+  --bs-table-hover-bg: #7e8083;
+  --bs-table-hover-color: #fff;
+  color: #ffffff !important;
+  border-color: #373b3e;
+}
+
+.darkmode .trow {
+    color: #000 !important;
+}
+
+
+/* Form Input / Select */
+.darkmode .form-control {
+  background-color: #393a3c;
+  color: #ffffff;
+}
+
+.darkmode .form-select {
+  background-color: #393a3c;
+  color: #ffffff;
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='white' stroke='%23343a40' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M2 5l6 6 6-6'/%3e%3c/svg%3e");
+}
+
+
+.darkmode ::placeholder {
+  color: #bbb8b8;
+} 
+
+.darkmode .input-group-text {
+  background-color: #3d3d3d;
+}
+
+.darkmode ::file-selector-button {
+    background-color: #212529 !important;
+    color: #ffffff !important;
+}
+
+.darkmode .form-control:disabled {
+    background-color: #252525;
+}
+
+.darkmode .form-select:disabled {
+    background-color: #252525;
+}
+
+/* .darkmode .form-control:read-only {
+    background-color: #252525;
+}
+
+.darkmode .form-select:read-only {
+    background-color: #252525;
+} */
+
+.darkmode .form-control:disabled:hover {
+    cursor: not-allowed;
+}
+
+.darkmode .form-select:disabled:hover {
+    cursor: not-allowed;
+}
+
+/* Icon */
+.darkmode i {
+  color: #ffffff;
+}
+
+.darkmode .icon-dark {
+  color: #212529 !important;
+}
+
+/* Navbar */
+.darkmode .SysHeaderText {
+  color: #B6D0E3 !important;
+}
+
+.darkmode .nav-dark-mode {
+  background-color: #212529;
+}
+
+.darkmode .nav-item {
+    background-color: #212529;
+    color: #ffffff;
+}
+
+.darkmode .dropdown-divider {
+    background-color: #dfdfdf;
+    color: #ffffff;
+}
+
+/* .darkmode ul {  background-color: #212529; color: #212529;} */
+
+.darkmode .dropdown-item {
+    background-color: #212529;
+    color: #ffffff;
+}
+
+.darkmode .dropdown-item:hover {
+    background-color: #393a3c;
+    color: #ffffff;
+}
+ 
+.darkmode .dropdown-menu {
+    background-color: #212529;
+} 
+/* Data Picker Dark mode */
+.darkmode .daterangepicker {
+  background-color: #3d3d3d;
+} 
+
+.darkmode .daterangepicker .calendar-table {
+  background-color: #3d3d3d;
+  color: #ffffff;
+} 
+
+.darkmode .daterangepicker td.off, .daterangepicker td.off.in-range, .daterangepicker td.off.start-date, .daterangepicker td.off.end-date {
+  background-color: #3d3d3d;
+  border-color: transparent;
+  color: #868686;
+}
+
+.darkmode .daterangepicker select.monthselect{
+  background-color: #3d3d3d;
+  color: #ffffff;
+}
+
+.darkmode .daterangepicker select.yearselect {
+  background-color: #3d3d3d;
+  color: #ffffff;
+}
+
+.darkmode .daterangepicker td.available:hover, .daterangepicker th.available:hover {
+  background-color: #929191;
+  color: inherit;
+}
+/* MODAL Dark Mode */
+.darkmode .modal-body, .darkmode .modal-footer {
+  background-color: #3d3d3d !important;
+  color: #ffffff !important;
+}
+
+/* Tooltip */
+
+.darkmode .bs-tooltip-top .tooltip-arrow::before, .bs-tooltip-auto[data-popper-placement^=top] .tooltip-arrow::before {
+  border-top-color: #f0f0f0;
+}
+
+
+.darkmode .bs-tooltip-end .tooltip-arrow::before, .bs-tooltip-auto[data-popper-placement^=right] .tooltip-arrow::before {
+  border-right-color: #f0f0f0;
+}
+
+.darkmode .bs-tooltip-bottom .tooltip-arrow::before, .bs-tooltip-auto[data-popper-placement^=bottom] .tooltip-arrow::before {
+  border-bottom-color: #f0f0f0;
+}
+
+.darkmode .bs-tooltip-start .tooltip-arrow::before, .bs-tooltip-auto[data-popper-placement^=left] .tooltip-arrow::before {
+  border-left-color: #f0f0f0;
+}
+
+.darkmode .tooltip-inner {
+  background-color: #f0f0f0 !important;
+  color: #000;
+}
+
+/* Text Color */
+
+.darkmode .text-red-dark  {
+  color: #ff6464 !important;
+}
+
+
+/* .darkmode .tooltip {
+  background-color: rgb(64, 19, 122) !important;
+} */
+
+/* 
+.test{
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%23343a40' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M2 5l6 6 6-6'/%3e%3c/svg%3e");
+}
+ */

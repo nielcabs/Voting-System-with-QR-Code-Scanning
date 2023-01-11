@@ -1,0 +1,66 @@
+.wrapper {    
+	margin-top: 190px;
+	margin-bottom: 20px;
+}
+
+.bg{
+	position: absolute;
+	top: -20px;
+	left: -20px;
+	right: -40px;
+	bottom: -40px;
+	width: auto;
+	height: auto;
+	background-size: cover;
+	-webkit-filter: blur(5px);
+	z-index: 0;
+}
+
+.form-signin {
+  max-width: 450px;
+  padding: 15px 38px 20px;
+  margin: 0 auto;
+  /*background-color: white;
+  /*opacity: 0.85;
+  /*border: 3px dotted rgba(0,0,0,0.1);  */
+  }
+
+.form-signin-heading {
+  text-align:center;
+  margin-bottom: 30px;
+}
+
+.form-control {
+  position: relative;
+  font-size: 16x;
+  height: auto;
+
+}
+
+input[type="text"] {
+  margin-bottom: 0px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+
+.profile-img-card {
+    max-width: 50%;
+    height: auto;
+    margin: 0 auto 0;
+    display: block;
+    /*-moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;*/
+}
+
+.lgcbrands{
+margin: 0 auto;
+max-width: 75%;
+}

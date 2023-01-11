@@ -1,0 +1,816 @@
+[23-Nov-2022 14:06:54 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[23-Nov-2022 14:06:54 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[23-Nov-2022 14:06:54 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[23-Nov-2022 14:06:54 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[23-Nov-2022 14:08:43 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[23-Nov-2022 14:08:43 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[23-Nov-2022 22:08:55 Asia/Hong_Kong] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php:13
+Stack trace:
+#0 /home/dhvsuevo/public_html/home/sc-election-result/print-election.php(13): mysqli_connect()
+#1 {main}
+  thrown in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 13
+[25-Nov-2022 00:12:52 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[25-Nov-2022 00:12:52 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[25-Nov-2022 00:12:52 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[28-Nov-2022 06:31:05 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[28-Nov-2022 06:31:05 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[29-Nov-2022 06:21:52 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[29-Nov-2022 06:21:52 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[29-Nov-2022 06:21:52 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[29-Nov-2022 06:22:02 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[29-Nov-2022 06:22:02 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[29-Nov-2022 06:22:02 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[29-Nov-2022 08:08:03 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[29-Nov-2022 08:08:03 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[29-Nov-2022 08:08:03 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[29-Nov-2022 16:08:15 Asia/Hong_Kong] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php:13
+Stack trace:
+#0 /home/dhvsuevo/public_html/home/sc-election-result/print-election.php(13): mysqli_connect()
+#1 {main}
+  thrown in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 13
+[29-Nov-2022 11:56:29 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[29-Nov-2022 11:56:29 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[29-Nov-2022 12:14:21 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[29-Nov-2022 12:14:21 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[29-Nov-2022 20:14:30 Asia/Hong_Kong] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php:13
+Stack trace:
+#0 /home/dhvsuevo/public_html/home/sc-election-result/print-election.php(13): mysqli_connect()
+#1 {main}
+  thrown in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 13
+[29-Nov-2022 20:16:45 Asia/Hong_Kong] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php:13
+Stack trace:
+#0 /home/dhvsuevo/public_html/home/sc-election-result/print-election.php(13): mysqli_connect()
+#1 {main}
+  thrown in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 13
+[29-Nov-2022 12:27:02 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[29-Nov-2022 12:27:02 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[29-Nov-2022 12:53:22 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[29-Nov-2022 12:53:22 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[29-Nov-2022 12:53:22 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[29-Nov-2022 16:29:40 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[29-Nov-2022 16:29:40 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[29-Nov-2022 16:29:40 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 01:30:45 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 01:30:45 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 01:30:45 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 09:32:18 Asia/Hong_Kong] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php:13
+Stack trace:
+#0 /home/dhvsuevo/public_html/home/sc-election-result/print-election.php(13): mysqli_connect()
+#1 {main}
+  thrown in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 13
+[30-Nov-2022 01:32:51 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 01:32:51 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 01:32:51 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 09:33:04 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:04 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:04 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:04 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:04 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:04 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:04 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:04 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:04 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:04 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:04 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:04 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:04 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:04 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:04 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:04 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:04 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:04 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:04 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:04 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:04 Asia/Hong_Kong] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/dhvsuevo/public_html/fpdf184/fpdf.php:271
+Stack trace:
+#0 /home/dhvsuevo/public_html/fpdf184/fpdf.php(1060): FPDF->Error()
+#1 /home/dhvsuevo/public_html/fpdf184/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/dhvsuevo/public_html/home/sc-election-result/print-election.php(257): FPDF->Output()
+#3 {main}
+  thrown in /home/dhvsuevo/public_html/fpdf184/fpdf.php on line 271
+[30-Nov-2022 09:33:44 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:44 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:44 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:44 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:44 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:44 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:44 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:44 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:44 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:44 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:44 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:44 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:44 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:44 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:44 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:44 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:44 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:44 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:44 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:44 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:33:44 Asia/Hong_Kong] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/dhvsuevo/public_html/fpdf184/fpdf.php:271
+Stack trace:
+#0 /home/dhvsuevo/public_html/fpdf184/fpdf.php(1060): FPDF->Error()
+#1 /home/dhvsuevo/public_html/fpdf184/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/dhvsuevo/public_html/home/sc-election-result/print-election.php(257): FPDF->Output()
+#3 {main}
+  thrown in /home/dhvsuevo/public_html/fpdf184/fpdf.php on line 271
+[30-Nov-2022 09:34:14 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:14 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:14 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:14 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:14 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:14 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:14 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:14 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:14 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:14 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:14 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:14 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:14 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:14 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:14 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:14 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:14 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:14 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:14 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:14 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:14 Asia/Hong_Kong] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/dhvsuevo/public_html/fpdf184/fpdf.php:271
+Stack trace:
+#0 /home/dhvsuevo/public_html/fpdf184/fpdf.php(1060): FPDF->Error()
+#1 /home/dhvsuevo/public_html/fpdf184/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/dhvsuevo/public_html/home/sc-election-result/print-election.php(257): FPDF->Output()
+#3 {main}
+  thrown in /home/dhvsuevo/public_html/fpdf184/fpdf.php on line 271
+[30-Nov-2022 09:34:27 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:27 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:27 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:27 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:27 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:27 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:27 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:27 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:27 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:27 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:27 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:27 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:27 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:27 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:27 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:27 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:27 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:27 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:27 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:27 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:27 Asia/Hong_Kong] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/dhvsuevo/public_html/fpdf184/fpdf.php:271
+Stack trace:
+#0 /home/dhvsuevo/public_html/fpdf184/fpdf.php(1060): FPDF->Error()
+#1 /home/dhvsuevo/public_html/fpdf184/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/dhvsuevo/public_html/home/sc-election-result/print-election.php(257): FPDF->Output()
+#3 {main}
+  thrown in /home/dhvsuevo/public_html/fpdf184/fpdf.php on line 271
+[30-Nov-2022 09:34:31 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:31 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:31 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:31 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:31 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:31 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:31 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:31 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:31 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:31 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:31 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:31 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:31 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:31 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:31 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:31 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:31 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:31 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:31 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:31 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:31 Asia/Hong_Kong] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/dhvsuevo/public_html/fpdf184/fpdf.php:271
+Stack trace:
+#0 /home/dhvsuevo/public_html/fpdf184/fpdf.php(1060): FPDF->Error()
+#1 /home/dhvsuevo/public_html/fpdf184/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/dhvsuevo/public_html/home/sc-election-result/print-election.php(257): FPDF->Output()
+#3 {main}
+  thrown in /home/dhvsuevo/public_html/fpdf184/fpdf.php on line 271
+[30-Nov-2022 09:34:59 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:59 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:59 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:59 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:59 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:59 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:59 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:59 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:59 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:59 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:59 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:59 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:59 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:59 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:59 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:59 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:59 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:59 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:59 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:59 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:34:59 Asia/Hong_Kong] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/dhvsuevo/public_html/fpdf184/fpdf.php:271
+Stack trace:
+#0 /home/dhvsuevo/public_html/fpdf184/fpdf.php(1060): FPDF->Error()
+#1 /home/dhvsuevo/public_html/fpdf184/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/dhvsuevo/public_html/home/sc-election-result/print-election.php(257): FPDF->Output()
+#3 {main}
+  thrown in /home/dhvsuevo/public_html/fpdf184/fpdf.php on line 271
+[30-Nov-2022 09:35:01 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:35:01 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:35:01 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:35:01 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:35:01 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:35:01 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:35:01 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:35:01 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:35:01 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:35:01 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:35:01 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:35:01 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:35:01 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:35:01 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:35:01 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:35:01 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:35:01 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:35:01 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:35:01 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:35:01 Asia/Hong_Kong] PHP Warning:  Undefined variable $vote_count in /home/dhvsuevo/public_html/home/sc-election-result/print-election.php on line 234
+[30-Nov-2022 09:35:01 Asia/Hong_Kong] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/dhvsuevo/public_html/fpdf184/fpdf.php:271
+Stack trace:
+#0 /home/dhvsuevo/public_html/fpdf184/fpdf.php(1060): FPDF->Error()
+#1 /home/dhvsuevo/public_html/fpdf184/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/dhvsuevo/public_html/home/sc-election-result/print-election.php(257): FPDF->Output()
+#3 {main}
+  thrown in /home/dhvsuevo/public_html/fpdf184/fpdf.php on line 271
+[30-Nov-2022 01:49:15 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 01:49:15 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 01:49:15 UTC] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 17:10:26 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 17:10:26 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 17:10:26 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 17:10:26 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 17:10:26 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 17:50:16 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 17:50:16 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 17:50:16 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 17:50:16 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 17:50:16 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 19:26:37 Asia/Manila] PHP Warning:  Undefined array key "username_id" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 10
+[30-Nov-2022 19:26:37 Asia/Manila] PHP Warning:  Undefined array key "access_rights" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 11
+[30-Nov-2022 19:26:37 Asia/Manila] PHP Warning:  Undefined array key "fullname" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 12
+[30-Nov-2022 19:26:37 Asia/Manila] PHP Warning:  Undefined array key "department" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 13
+[30-Nov-2022 19:26:37 Asia/Manila] PHP Warning:  Undefined array key "chg_password" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 14
+[30-Nov-2022 19:26:37 Asia/Manila] PHP Warning:  Undefined array key "username_id" in /home/dhvsuevo/public_html/sidebar.php on line 8
+[30-Nov-2022 19:26:37 Asia/Manila] PHP Warning:  Undefined array key "access_rights" in /home/dhvsuevo/public_html/sidebar.php on line 9
+[30-Nov-2022 19:26:37 Asia/Manila] PHP Warning:  Undefined array key "first_name" in /home/dhvsuevo/public_html/sidebar.php on line 10
+[30-Nov-2022 19:26:37 Asia/Manila] PHP Warning:  Undefined array key "middle_name" in /home/dhvsuevo/public_html/sidebar.php on line 11
+[30-Nov-2022 19:26:37 Asia/Manila] PHP Warning:  Undefined array key "last_name" in /home/dhvsuevo/public_html/sidebar.php on line 12
+[30-Nov-2022 19:26:37 Asia/Manila] PHP Warning:  Undefined array key "fullname" in /home/dhvsuevo/public_html/sidebar.php on line 13
+[30-Nov-2022 19:26:37 Asia/Manila] PHP Warning:  Undefined array key "chg_password" in /home/dhvsuevo/public_html/sidebar.php on line 14
+[30-Nov-2022 19:26:37 Asia/Manila] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 27
+[30-Nov-2022 19:26:37 Asia/Manila] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 28
+[30-Nov-2022 19:26:37 Asia/Manila] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 34
+[30-Nov-2022 19:26:37 Asia/Manila] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[30-Nov-2022 19:26:37 Asia/Manila] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[30-Nov-2022 19:26:37 Asia/Manila] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[30-Nov-2022 19:26:37 Asia/Manila] PHP Warning:  Undefined variable $query in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 70
+[30-Nov-2022 19:26:37 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 19:26:37 Asia/Manila] PHP Warning:  Undefined variable $election_title in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 91
+[30-Nov-2022 19:26:37 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 19:26:37 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 19:26:37 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 19:26:37 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 19:26:37 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 19:26:37 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 20:09:01 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 20:09:01 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 20:09:01 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 20:09:01 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 20:09:01 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 20:09:01 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 20:10:37 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 20:10:37 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 20:10:37 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 20:10:37 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 20:10:37 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 20:10:37 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 22:01:42 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 22:01:42 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 22:01:42 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 22:01:42 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 22:01:42 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 22:01:42 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 22:45:27 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 22:45:27 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 22:45:27 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 22:45:27 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 22:45:27 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 22:45:27 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 22:46:05 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 22:46:05 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 22:46:05 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 22:46:05 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 22:46:05 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 22:46:05 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 22:46:53 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 22:46:53 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 22:46:53 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 22:46:53 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 22:46:53 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 22:46:53 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 23:53:59 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 23:53:59 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 23:59:00 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[30-Nov-2022 23:59:00 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 00:00:06 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 00:00:06 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 00:13:56 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 00:13:56 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 00:13:56 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 01:24:00 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 01:24:00 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 01:24:00 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 04:17:32 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 04:17:32 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 04:17:32 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 04:49:21 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 04:49:21 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 04:49:21 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 05:23:37 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 05:23:37 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 05:23:37 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 05:45:21 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 05:45:21 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 05:45:21 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 08:43:29 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 08:43:29 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 08:43:29 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 08:50:56 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 08:50:56 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 08:50:56 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 08:51:21 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 08:51:21 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 08:51:21 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 08:53:45 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 08:53:45 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 08:53:45 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 10:20:34 Asia/Manila] PHP Warning:  Undefined array key "username_id" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 10
+[01-Dec-2022 10:20:34 Asia/Manila] PHP Warning:  Undefined array key "access_rights" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 11
+[01-Dec-2022 10:20:34 Asia/Manila] PHP Warning:  Undefined array key "fullname" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 12
+[01-Dec-2022 10:20:34 Asia/Manila] PHP Warning:  Undefined array key "department" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 13
+[01-Dec-2022 10:20:34 Asia/Manila] PHP Warning:  Undefined array key "chg_password" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 14
+[01-Dec-2022 10:20:34 Asia/Manila] PHP Warning:  Undefined array key "username_id" in /home/dhvsuevo/public_html/sidebar.php on line 8
+[01-Dec-2022 10:20:34 Asia/Manila] PHP Warning:  Undefined array key "access_rights" in /home/dhvsuevo/public_html/sidebar.php on line 9
+[01-Dec-2022 10:20:34 Asia/Manila] PHP Warning:  Undefined array key "first_name" in /home/dhvsuevo/public_html/sidebar.php on line 10
+[01-Dec-2022 10:20:34 Asia/Manila] PHP Warning:  Undefined array key "middle_name" in /home/dhvsuevo/public_html/sidebar.php on line 11
+[01-Dec-2022 10:20:34 Asia/Manila] PHP Warning:  Undefined array key "last_name" in /home/dhvsuevo/public_html/sidebar.php on line 12
+[01-Dec-2022 10:20:34 Asia/Manila] PHP Warning:  Undefined array key "fullname" in /home/dhvsuevo/public_html/sidebar.php on line 13
+[01-Dec-2022 10:20:34 Asia/Manila] PHP Warning:  Undefined array key "chg_password" in /home/dhvsuevo/public_html/sidebar.php on line 14
+[01-Dec-2022 10:20:34 Asia/Manila] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 27
+[01-Dec-2022 10:20:34 Asia/Manila] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 28
+[01-Dec-2022 10:20:34 Asia/Manila] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 34
+[01-Dec-2022 10:20:34 Asia/Manila] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[01-Dec-2022 10:20:34 Asia/Manila] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[01-Dec-2022 10:20:34 Asia/Manila] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[01-Dec-2022 10:20:34 Asia/Manila] PHP Warning:  Undefined variable $query in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 70
+[01-Dec-2022 10:20:34 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 10:20:34 Asia/Manila] PHP Warning:  Undefined variable $election_title in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 91
+[01-Dec-2022 10:20:34 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 10:20:34 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 10:20:34 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 10:20:36 Asia/Manila] PHP Warning:  Undefined array key "username_id" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 10
+[01-Dec-2022 10:20:36 Asia/Manila] PHP Warning:  Undefined array key "access_rights" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 11
+[01-Dec-2022 10:20:36 Asia/Manila] PHP Warning:  Undefined array key "fullname" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 12
+[01-Dec-2022 10:20:36 Asia/Manila] PHP Warning:  Undefined array key "department" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 13
+[01-Dec-2022 10:20:36 Asia/Manila] PHP Warning:  Undefined array key "chg_password" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 14
+[01-Dec-2022 10:20:36 Asia/Manila] PHP Warning:  Undefined array key "username_id" in /home/dhvsuevo/public_html/sidebar.php on line 8
+[01-Dec-2022 10:20:36 Asia/Manila] PHP Warning:  Undefined array key "access_rights" in /home/dhvsuevo/public_html/sidebar.php on line 9
+[01-Dec-2022 10:20:36 Asia/Manila] PHP Warning:  Undefined array key "first_name" in /home/dhvsuevo/public_html/sidebar.php on line 10
+[01-Dec-2022 10:20:36 Asia/Manila] PHP Warning:  Undefined array key "middle_name" in /home/dhvsuevo/public_html/sidebar.php on line 11
+[01-Dec-2022 10:20:36 Asia/Manila] PHP Warning:  Undefined array key "last_name" in /home/dhvsuevo/public_html/sidebar.php on line 12
+[01-Dec-2022 10:20:36 Asia/Manila] PHP Warning:  Undefined array key "fullname" in /home/dhvsuevo/public_html/sidebar.php on line 13
+[01-Dec-2022 10:20:36 Asia/Manila] PHP Warning:  Undefined array key "chg_password" in /home/dhvsuevo/public_html/sidebar.php on line 14
+[01-Dec-2022 10:20:36 Asia/Manila] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 27
+[01-Dec-2022 10:20:36 Asia/Manila] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 28
+[01-Dec-2022 10:20:36 Asia/Manila] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 34
+[01-Dec-2022 10:20:36 Asia/Manila] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[01-Dec-2022 10:20:36 Asia/Manila] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[01-Dec-2022 10:20:36 Asia/Manila] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[01-Dec-2022 10:20:36 Asia/Manila] PHP Warning:  Undefined variable $query in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 70
+[01-Dec-2022 10:20:36 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 10:20:36 Asia/Manila] PHP Warning:  Undefined variable $election_title in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 91
+[01-Dec-2022 10:20:36 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 10:20:36 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 10:20:36 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 10:22:22 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 10:22:22 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 10:22:22 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 19:57:02 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 19:57:02 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 19:57:02 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 19:57:02 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 19:57:02 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 21:00:57 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 21:00:57 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 21:00:57 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 21:00:57 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 21:00:57 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 21:18:20 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 21:18:20 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 21:18:20 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 21:18:20 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 21:18:20 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 21:44:35 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 21:44:35 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 21:44:35 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 21:44:35 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 21:44:35 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 21:52:09 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 21:52:09 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 21:52:09 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 21:52:09 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 21:52:09 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 22:10:16 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 22:10:16 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 22:10:16 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 22:10:16 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 22:10:16 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 22:12:47 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 22:12:47 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 22:12:47 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 22:12:47 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[01-Dec-2022 22:12:47 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[02-Dec-2022 09:30:33 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[02-Dec-2022 09:30:33 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[02-Dec-2022 09:30:33 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[02-Dec-2022 09:30:33 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[02-Dec-2022 09:30:33 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[02-Dec-2022 15:14:02 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[02-Dec-2022 15:14:02 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[02-Dec-2022 15:14:02 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[02-Dec-2022 15:14:02 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[02-Dec-2022 15:14:02 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[02-Dec-2022 15:14:02 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[02-Dec-2022 15:15:36 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[02-Dec-2022 15:15:36 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[02-Dec-2022 15:15:36 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[02-Dec-2022 15:15:36 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[02-Dec-2022 15:15:36 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[02-Dec-2022 15:15:36 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 11:19:51 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 11:19:51 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 11:19:51 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 11:19:51 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 11:19:51 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 11:19:51 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 14:02:00 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 14:02:00 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 14:02:00 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 14:02:00 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 14:02:00 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 14:02:00 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 14:03:27 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 14:03:27 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 14:03:27 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 14:03:27 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 14:03:27 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 14:03:27 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 14:24:35 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 14:24:35 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 14:24:35 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 14:24:35 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 14:24:35 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 14:24:35 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 21:07:41 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 21:07:41 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 21:07:41 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 21:07:41 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 21:07:41 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 21:07:41 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 22:57:58 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 22:57:58 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 22:57:58 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 22:57:58 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 22:57:58 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 22:57:58 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 22:58:39 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 22:58:39 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 22:58:39 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 22:58:39 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 22:58:39 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[03-Dec-2022 22:58:39 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[04-Dec-2022 08:18:25 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[04-Dec-2022 08:18:25 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[04-Dec-2022 08:18:25 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[04-Dec-2022 08:18:25 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[04-Dec-2022 08:18:25 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[04-Dec-2022 08:18:25 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[04-Dec-2022 08:18:44 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[04-Dec-2022 08:18:44 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[04-Dec-2022 08:18:44 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[04-Dec-2022 08:18:44 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[04-Dec-2022 08:18:44 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[04-Dec-2022 08:18:44 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[04-Dec-2022 17:34:49 Asia/Manila] PHP Warning:  Undefined variable $query in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 70
+[04-Dec-2022 20:21:10 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[04-Dec-2022 21:06:14 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[04-Dec-2022 21:06:14 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[04-Dec-2022 22:37:04 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[04-Dec-2022 22:37:04 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[04-Dec-2022 23:05:05 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[04-Dec-2022 23:05:05 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[04-Dec-2022 23:05:05 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[04-Dec-2022 23:42:09 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[04-Dec-2022 23:42:09 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[04-Dec-2022 23:42:09 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[05-Dec-2022 06:31:28 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[05-Dec-2022 06:31:28 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[05-Dec-2022 06:31:28 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[05-Dec-2022 16:43:16 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[05-Dec-2022 16:43:16 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[05-Dec-2022 16:43:16 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[05-Dec-2022 16:43:16 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[05-Dec-2022 16:43:16 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[06-Dec-2022 15:25:24 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[06-Dec-2022 15:25:24 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[06-Dec-2022 15:25:24 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[06-Dec-2022 15:25:24 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[06-Dec-2022 15:25:24 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[06-Dec-2022 15:43:32 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[06-Dec-2022 15:43:32 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[06-Dec-2022 15:43:32 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[06-Dec-2022 15:43:32 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[06-Dec-2022 15:43:32 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[07-Dec-2022 07:18:26 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[07-Dec-2022 07:18:26 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[07-Dec-2022 07:18:26 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[07-Dec-2022 07:18:26 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[07-Dec-2022 07:18:26 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[07-Dec-2022 13:33:18 Asia/Manila] PHP Warning:  Undefined array key "username_id" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 10
+[07-Dec-2022 13:33:18 Asia/Manila] PHP Warning:  Undefined array key "access_rights" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 11
+[07-Dec-2022 13:33:18 Asia/Manila] PHP Warning:  Undefined array key "fullname" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 12
+[07-Dec-2022 13:33:18 Asia/Manila] PHP Warning:  Undefined array key "department" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 13
+[07-Dec-2022 13:33:18 Asia/Manila] PHP Warning:  Undefined array key "chg_password" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 14
+[07-Dec-2022 13:33:18 Asia/Manila] PHP Warning:  Undefined array key "username_id" in /home/dhvsuevo/public_html/sidebar.php on line 8
+[07-Dec-2022 13:33:18 Asia/Manila] PHP Warning:  Undefined array key "access_rights" in /home/dhvsuevo/public_html/sidebar.php on line 9
+[07-Dec-2022 13:33:18 Asia/Manila] PHP Warning:  Undefined array key "first_name" in /home/dhvsuevo/public_html/sidebar.php on line 10
+[07-Dec-2022 13:33:18 Asia/Manila] PHP Warning:  Undefined array key "middle_name" in /home/dhvsuevo/public_html/sidebar.php on line 11
+[07-Dec-2022 13:33:18 Asia/Manila] PHP Warning:  Undefined array key "last_name" in /home/dhvsuevo/public_html/sidebar.php on line 12
+[07-Dec-2022 13:33:18 Asia/Manila] PHP Warning:  Undefined array key "fullname" in /home/dhvsuevo/public_html/sidebar.php on line 13
+[07-Dec-2022 13:33:18 Asia/Manila] PHP Warning:  Undefined array key "chg_password" in /home/dhvsuevo/public_html/sidebar.php on line 14
+[07-Dec-2022 13:33:18 Asia/Manila] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 27
+[07-Dec-2022 13:33:18 Asia/Manila] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 28
+[07-Dec-2022 13:33:18 Asia/Manila] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 34
+[07-Dec-2022 13:33:18 Asia/Manila] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[07-Dec-2022 13:33:18 Asia/Manila] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[07-Dec-2022 13:33:18 Asia/Manila] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[07-Dec-2022 13:33:18 Asia/Manila] PHP Warning:  Undefined variable $query in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 70
+[07-Dec-2022 13:33:18 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[07-Dec-2022 13:33:18 Asia/Manila] PHP Warning:  Undefined variable $election_title in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 91
+[07-Dec-2022 13:33:18 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[07-Dec-2022 13:33:18 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[07-Dec-2022 13:33:18 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[07-Dec-2022 13:33:18 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[07-Dec-2022 13:33:18 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[07-Dec-2022 13:33:18 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[07-Dec-2022 16:39:54 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[07-Dec-2022 16:39:54 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[07-Dec-2022 16:39:54 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[07-Dec-2022 16:39:54 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[07-Dec-2022 16:39:54 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[07-Dec-2022 16:39:54 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[07-Dec-2022 23:27:16 Asia/Manila] PHP Warning:  Undefined array key "username_id" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 10
+[07-Dec-2022 23:27:16 Asia/Manila] PHP Warning:  Undefined array key "access_rights" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 11
+[07-Dec-2022 23:27:16 Asia/Manila] PHP Warning:  Undefined array key "fullname" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 12
+[07-Dec-2022 23:27:16 Asia/Manila] PHP Warning:  Undefined array key "department" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 13
+[07-Dec-2022 23:27:16 Asia/Manila] PHP Warning:  Undefined array key "chg_password" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 14
+[07-Dec-2022 23:27:16 Asia/Manila] PHP Warning:  Undefined array key "username_id" in /home/dhvsuevo/public_html/sidebar.php on line 8
+[07-Dec-2022 23:27:16 Asia/Manila] PHP Warning:  Undefined array key "access_rights" in /home/dhvsuevo/public_html/sidebar.php on line 9
+[07-Dec-2022 23:27:16 Asia/Manila] PHP Warning:  Undefined array key "first_name" in /home/dhvsuevo/public_html/sidebar.php on line 10
+[07-Dec-2022 23:27:16 Asia/Manila] PHP Warning:  Undefined array key "middle_name" in /home/dhvsuevo/public_html/sidebar.php on line 11
+[07-Dec-2022 23:27:16 Asia/Manila] PHP Warning:  Undefined array key "last_name" in /home/dhvsuevo/public_html/sidebar.php on line 12
+[07-Dec-2022 23:27:16 Asia/Manila] PHP Warning:  Undefined array key "fullname" in /home/dhvsuevo/public_html/sidebar.php on line 13
+[07-Dec-2022 23:27:16 Asia/Manila] PHP Warning:  Undefined array key "chg_password" in /home/dhvsuevo/public_html/sidebar.php on line 14
+[07-Dec-2022 23:27:16 Asia/Manila] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 27
+[07-Dec-2022 23:27:16 Asia/Manila] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 28
+[07-Dec-2022 23:27:16 Asia/Manila] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 34
+[07-Dec-2022 23:27:16 Asia/Manila] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[07-Dec-2022 23:27:16 Asia/Manila] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[07-Dec-2022 23:27:16 Asia/Manila] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[07-Dec-2022 23:27:16 Asia/Manila] PHP Warning:  Undefined variable $query in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 70
+[07-Dec-2022 23:27:16 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[07-Dec-2022 23:27:16 Asia/Manila] PHP Warning:  Undefined variable $election_title in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 91
+[07-Dec-2022 23:27:16 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[07-Dec-2022 23:27:16 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[07-Dec-2022 23:27:16 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[07-Dec-2022 23:27:16 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[07-Dec-2022 23:27:16 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[07-Dec-2022 23:27:16 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 15:34:44 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 15:34:44 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 15:34:44 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 15:34:44 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 15:34:44 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 15:34:44 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 15:34:44 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 15:36:02 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 15:36:02 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 15:36:02 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 15:36:02 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 15:36:02 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 15:36:02 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 15:36:02 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 15:38:49 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 15:38:49 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 15:38:49 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 15:38:49 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 15:38:49 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 15:38:49 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 15:38:49 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 20:57:47 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 20:57:47 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 20:57:47 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 20:57:47 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 20:57:47 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 20:57:47 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 20:57:47 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 20:57:59 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 20:57:59 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 20:57:59 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 20:57:59 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 20:57:59 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 20:57:59 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 20:57:59 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 21:05:54 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 21:05:54 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 21:05:54 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 21:05:54 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 21:05:54 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 21:05:54 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 21:05:54 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 21:06:05 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 21:06:05 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 21:06:05 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 21:06:05 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 21:06:05 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 21:06:05 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[08-Dec-2022 21:06:05 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[09-Dec-2022 10:30:20 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[09-Dec-2022 10:30:20 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[09-Dec-2022 10:30:20 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[09-Dec-2022 10:30:20 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[09-Dec-2022 10:30:20 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[09-Dec-2022 10:30:20 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[09-Dec-2022 10:30:20 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[09-Dec-2022 12:06:43 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[09-Dec-2022 12:06:43 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[09-Dec-2022 12:06:43 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[09-Dec-2022 12:06:43 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[09-Dec-2022 12:06:43 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[09-Dec-2022 12:06:43 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[09-Dec-2022 12:06:43 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[09-Dec-2022 12:06:43 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[09-Dec-2022 12:06:43 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[09-Dec-2022 12:06:43 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[10-Dec-2022 10:36:34 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[10-Dec-2022 10:36:34 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[10-Dec-2022 10:36:34 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[10-Dec-2022 10:36:34 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[10-Dec-2022 10:36:34 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[10-Dec-2022 10:36:34 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[10-Dec-2022 10:36:34 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[10-Dec-2022 10:36:34 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[10-Dec-2022 10:36:34 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[10-Dec-2022 10:36:34 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[10-Dec-2022 10:38:16 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[10-Dec-2022 10:38:16 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[10-Dec-2022 10:38:16 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[10-Dec-2022 10:38:16 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[10-Dec-2022 10:38:16 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[10-Dec-2022 10:38:16 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[10-Dec-2022 10:38:16 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[10-Dec-2022 10:38:16 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[10-Dec-2022 10:38:16 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[10-Dec-2022 10:38:16 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 08:09:21 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 08:09:21 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 08:09:21 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 08:09:21 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 08:09:21 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 08:09:21 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 08:09:21 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 08:09:21 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 08:09:21 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 08:09:21 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 16:52:30 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 16:52:30 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 16:52:30 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 16:52:30 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 16:52:30 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 16:52:30 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 16:52:30 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 16:52:30 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 16:52:30 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 16:52:30 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 17:23:08 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 17:23:08 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 17:23:08 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 17:23:08 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 17:23:08 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 17:23:08 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 17:23:08 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 17:23:08 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 17:23:08 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 17:23:08 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 17:26:31 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 17:26:31 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 17:26:31 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 17:26:31 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 17:26:31 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 17:26:31 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 17:26:31 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 17:26:31 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 17:26:31 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 17:26:31 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 22:00:25 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 22:00:25 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 22:00:25 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 22:00:25 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 22:00:25 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 22:00:25 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 22:00:25 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 22:00:25 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 22:00:25 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 22:00:25 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 22:00:25 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 22:20:05 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 22:20:05 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 22:20:05 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 22:33:59 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 22:33:59 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 22:33:59 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 22:49:30 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 22:49:30 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 22:49:30 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 22:49:30 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[11-Dec-2022 23:45:52 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[12-Dec-2022 18:18:44 Asia/Manila] PHP Warning:  Undefined array key "username_id" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 10
+[12-Dec-2022 18:18:44 Asia/Manila] PHP Warning:  Undefined array key "access_rights" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 11
+[12-Dec-2022 18:18:44 Asia/Manila] PHP Warning:  Undefined array key "fullname" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 12
+[12-Dec-2022 18:18:44 Asia/Manila] PHP Warning:  Undefined array key "department" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 13
+[12-Dec-2022 18:18:44 Asia/Manila] PHP Warning:  Undefined array key "chg_password" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 14
+[12-Dec-2022 18:18:44 Asia/Manila] PHP Warning:  Undefined array key "username_id" in /home/dhvsuevo/public_html/sidebar.php on line 8
+[12-Dec-2022 18:18:44 Asia/Manila] PHP Warning:  Undefined array key "access_rights" in /home/dhvsuevo/public_html/sidebar.php on line 9
+[12-Dec-2022 18:18:44 Asia/Manila] PHP Warning:  Undefined array key "first_name" in /home/dhvsuevo/public_html/sidebar.php on line 10
+[12-Dec-2022 18:18:44 Asia/Manila] PHP Warning:  Undefined array key "middle_name" in /home/dhvsuevo/public_html/sidebar.php on line 11
+[12-Dec-2022 18:18:44 Asia/Manila] PHP Warning:  Undefined array key "last_name" in /home/dhvsuevo/public_html/sidebar.php on line 12
+[12-Dec-2022 18:18:44 Asia/Manila] PHP Warning:  Undefined array key "fullname" in /home/dhvsuevo/public_html/sidebar.php on line 13
+[12-Dec-2022 18:18:44 Asia/Manila] PHP Warning:  Undefined array key "chg_password" in /home/dhvsuevo/public_html/sidebar.php on line 14
+[12-Dec-2022 18:18:44 Asia/Manila] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 27
+[12-Dec-2022 18:18:44 Asia/Manila] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 28
+[12-Dec-2022 18:18:44 Asia/Manila] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 34
+[12-Dec-2022 18:18:44 Asia/Manila] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[12-Dec-2022 18:18:44 Asia/Manila] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[12-Dec-2022 18:18:44 Asia/Manila] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[12-Dec-2022 18:18:44 Asia/Manila] PHP Warning:  Undefined variable $query in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 70
+[13-Dec-2022 13:26:18 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[13-Dec-2022 14:34:47 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[16-Dec-2022 05:08:59 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[16-Dec-2022 05:08:59 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[16-Dec-2022 05:08:59 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[16-Dec-2022 09:13:26 Asia/Manila] PHP Warning:  Undefined array key "username_id" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 10
+[16-Dec-2022 09:13:26 Asia/Manila] PHP Warning:  Undefined array key "access_rights" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 11
+[16-Dec-2022 09:13:26 Asia/Manila] PHP Warning:  Undefined array key "fullname" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 12
+[16-Dec-2022 09:13:26 Asia/Manila] PHP Warning:  Undefined array key "department" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 13
+[16-Dec-2022 09:13:26 Asia/Manila] PHP Warning:  Undefined array key "chg_password" in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 14
+[16-Dec-2022 09:13:26 Asia/Manila] PHP Warning:  Undefined array key "username_id" in /home/dhvsuevo/public_html/sidebar.php on line 8
+[16-Dec-2022 09:13:26 Asia/Manila] PHP Warning:  Undefined array key "access_rights" in /home/dhvsuevo/public_html/sidebar.php on line 9
+[16-Dec-2022 09:13:26 Asia/Manila] PHP Warning:  Undefined array key "first_name" in /home/dhvsuevo/public_html/sidebar.php on line 10
+[16-Dec-2022 09:13:26 Asia/Manila] PHP Warning:  Undefined array key "middle_name" in /home/dhvsuevo/public_html/sidebar.php on line 11
+[16-Dec-2022 09:13:26 Asia/Manila] PHP Warning:  Undefined array key "last_name" in /home/dhvsuevo/public_html/sidebar.php on line 12
+[16-Dec-2022 09:13:26 Asia/Manila] PHP Warning:  Undefined array key "fullname" in /home/dhvsuevo/public_html/sidebar.php on line 13
+[16-Dec-2022 09:13:26 Asia/Manila] PHP Warning:  Undefined array key "chg_password" in /home/dhvsuevo/public_html/sidebar.php on line 14
+[16-Dec-2022 09:13:26 Asia/Manila] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 27
+[16-Dec-2022 09:13:26 Asia/Manila] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 28
+[16-Dec-2022 09:13:26 Asia/Manila] PHP Warning:  Undefined array key 1 in /home/dhvsuevo/public_html/sidebar.php on line 34
+[16-Dec-2022 09:13:26 Asia/Manila] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[16-Dec-2022 09:13:26 Asia/Manila] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[16-Dec-2022 09:13:26 Asia/Manila] PHP Warning:  Uninitialized string offset 0 in /home/dhvsuevo/public_html/sidebar.php on line 40
+[16-Dec-2022 09:13:26 Asia/Manila] PHP Warning:  Undefined variable $query in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 70
+[16-Dec-2022 09:13:26 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[16-Dec-2022 09:13:26 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[16-Dec-2022 09:13:26 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[16-Dec-2022 09:13:41 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[16-Dec-2022 09:13:41 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[16-Dec-2022 09:13:41 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[16-Dec-2022 09:18:42 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[16-Dec-2022 09:18:42 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
+[16-Dec-2022 09:18:42 Asia/Manila] PHP Warning:  Undefined variable $election_id in /home/dhvsuevo/public_html/home/sc-election-result/index.php on line 74
